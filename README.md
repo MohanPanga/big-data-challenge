@@ -1,5 +1,5 @@
 # big-data-challenge
-Customer reviews data on luggage and furniture products was imported from Amazon S3 buckets into Google Colab
+Customer reviews data on luggage and furniture products was imported from Amazon S3 buckets into Google Colab.</br>
 __Dataset 1:__
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Luggage_v1_00.tsv.gz
 __Dataset 2:__
